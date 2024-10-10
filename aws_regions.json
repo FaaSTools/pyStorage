@@ -1,0 +1,18 @@
+{
+    "": "s3",
+    "ap-northeast-1": "s3_ap_northeast_1",
+    "ap-northeast-2": "s3_ap_northeast_2",
+    "ap-south-1": "s3_ap_south",
+    "ap-southeast-1": "s3_ap_southeast",
+    "ap-southeast-2": "s3_ap_southeast2",
+    "ca-central-1": "s3_ca_central",
+    "eu-central-1": "s3_eu_central",
+    "eu-north-1": "s3_eu_north_1",
+    "eu-west-1": "s3_eu_west",
+    "eu-west-2": "s3_eu_west_2",
+    "sa-east-1": "s3_sa_east",
+    "us-east-1": "s3",
+    "us-east-2": "s3_us_east_2",
+    "us-west-1": "s3_us_west",
+    "us-west-2": "s3_us_west_oregon"
+}
